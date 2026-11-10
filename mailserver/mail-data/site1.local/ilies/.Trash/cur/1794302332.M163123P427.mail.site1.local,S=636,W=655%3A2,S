@@ -1,0 +1,19 @@
+Return-Path: <william@site1.local>
+Delivered-To: ilies@site1.local
+Received: from mail.site1.local
+	by mail.site1.local with LMTP
+	id 9vQpCXzh8mqrAQAAiqOGYQ
+	(envelope-from <william@site1.local>)
+	for <ilies@site1.local>; Tue, 10 Nov 2026 10:18:52 +0100
+Received: by mail.site1.local (Postfix, from userid 0)
+	id 181BB5F482; Tue, 10 Nov 2026 10:18:52 +0100 (CET)
+From: william@site1.local
+To: ilies@site1.local
+Subject: Bonjour
+MIME-Version: 1.0
+Content-Type: text/plain; charset="ANSI_X3.4-1968"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20261110091852.181BB5F482@mail.site1.local>
+Date: Tue, 10 Nov 2026 10:18:52 +0100 (CET)
+
+Test

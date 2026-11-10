@@ -1,0 +1,19 @@
+Return-Path: <root@mail.site1.local>
+Delivered-To: supervision@site1.local
+Received: from mail.site1.local
+	by mail.site1.local with LMTP
+	id r1BjAao082obBQAAiqOGYQ
+	(envelope-from <root@mail.site1.local>)
+	for <supervision@site1.local>; Tue, 10 Nov 2026 16:13:46 +0100
+Received: by mail.site1.local (Postfix, from userid 0)
+	id E116862789; Tue, 10 Nov 2026 16:13:45 +0100 (CET)
+From: noreply@site1.local
+To: supervision@site1.local
+Subject: DOWN : laba4-proxy
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+Message-Id: <20261110151345.E116862789@mail.site1.local>
+Date: Tue, 10 Nov 2026 16:13:45 +0100 (CET)
+
+Le conteneur laba4-proxy ne fonctionne plus.

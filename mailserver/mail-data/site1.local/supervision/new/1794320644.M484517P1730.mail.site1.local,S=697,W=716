@@ -1,0 +1,19 @@
+Return-Path: <root@mail.site1.local>
+Delivered-To: supervision@site1.local
+Received: from mail.site1.local
+	by mail.site1.local with LMTP
+	id wbirHAQp82rCBgAAiqOGYQ
+	(envelope-from <root@mail.site1.local>)
+	for <supervision@site1.local>; Tue, 10 Nov 2026 15:24:04 +0100
+Received: by mail.site1.local (Postfix, from userid 0)
+	id 720C15FAD6; Tue, 10 Nov 2026 15:24:04 +0100 (CET)
+From: noreply@site1.local
+To: supervision@site1.local
+Subject: UP : laba4-web
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+Message-Id: <20261110142404.720C15FAD6@mail.site1.local>
+Date: Tue, 10 Nov 2026 15:24:04 +0100 (CET)
+
+Le conteneur laba4-web fonctionne de nouveau.

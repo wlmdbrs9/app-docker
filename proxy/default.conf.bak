@@ -1,0 +1,22 @@
+server {
+    listen 80;
+    server_name _;
+
+
+    location / {
+        proxy_pass http://web:9000;
+    	proxy_set_header Host              $host;
+    	proxy_set_header X-Real-IP         $remote_addr;
+    	proxy_set_header X-Forwarded-For   $proxy_add_x_forwarded_for;
+    	proxy_set_header X-Forwarded-Proto $scheme;
+    }
+
+    location = /webmail {
+        return 301 /webmail/;
+    }
+
+    location /webmail/ {
+        proxy_pass http://webmail:80/;
+        client_max_body_size 25m;
+    }
+}

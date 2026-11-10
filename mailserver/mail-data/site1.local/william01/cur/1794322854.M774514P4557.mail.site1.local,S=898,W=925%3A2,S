@@ -1,0 +1,27 @@
+Return-Path: <noreply@site1.local>
+Delivered-To: william01@site1.local
+Received: from mail.site1.local
+	by mail.site1.local with LMTP
+	id 1oE3LaYx82rNEQAAiqOGYQ
+	(envelope-from <noreply@site1.local>)
+	for <william01@site1.local>; Tue, 10 Nov 2026 16:00:54 +0100
+Received: from [172.18.0.3] (laba4-web.laba4-net [172.18.0.3])
+	by mail.site1.local (Postfix) with ESMTP id A0E635FADE
+	for <william01@site1.local>; Tue, 10 Nov 2026 16:00:54 +0100 (CET)
+From: WICM Game <noreply@site1.local>
+To: william01@site1.local
+Subject: Bienvenue sur WICM Game !
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+Salut william01 !
+
+Ton compte est prêt.
+
+  Adresse e-mail : william01@site1.local
+  Mot de passe   : celui que tu as choisi à l'inscription
+                   (le même pour WICM Game et pour le webmail)
+
+Bonne partie !
+William, Ilyes, Chérif et Malchaz

@@ -1,0 +1,15 @@
+Return-Path: <noreply@site1.local>
+Delivered-To: supervision@site1.local
+Received: from mail.site1.local
+	by mail.site1.local with LMTP
+	id ocK6HiUc82pkBgAAiqOGYQ
+	(envelope-from <noreply@site1.local>)
+	for <supervision@site1.local>; Tue, 10 Nov 2026 14:29:09 +0100
+Subject: ALERTE : Malchaz est DOWN sa mere
+From: noreply@site1.local
+To: supervision@site1.local
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Malchaz (172.16.0.78) ca ping plus.
