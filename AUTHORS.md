@@ -1,8 +1,5 @@
 # Auteurs
 
-- chkk12
-- LeurPseudo
-
-- Pipourg
+- wlmdbrs9
 
 - Pipourg
